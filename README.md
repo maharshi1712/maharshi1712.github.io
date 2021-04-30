@@ -158,8 +158,7 @@
 																				</div>
 																			</div>
 																			<a href="#section-contacts" class="btn">
-																				<span class="animated-button"><span>Contact
-																						Me</span></span> <i
+																				<span class="animated-button"><span>Contact Me</span></span> <i
 																					class="icon fas fa-chevron-right"></i>
 																			</a>
 																			<a href="#" class="btn mouse-btn"
